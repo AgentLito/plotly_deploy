@@ -1,10 +1,10 @@
 html, body {
-   font-family: Georgia, 'Times New Roman', Times, serif;}
- 
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
 .jumbotron {
-   background-image: url("https://culliganventura.com/blog/wp-content/uploads/2018/12/iStock-628978952.jpg");
-   background-size: cover;
-   text-align: center;}
+background-image: url("https://culliganventura.com/blog/wp-content/uploads/2018/12/iStock-628978952.jpg");
+background-size: cover;
+text-align: center;}
 
 h1 {color: #ffffff;}
 
